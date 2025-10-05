@@ -1,3 +1,3 @@
 from fastapi import APIRouter
 router = APIRouter()
-# TODO: /register, /login, /me (JWT)
+# TODO: CRUD lezioni

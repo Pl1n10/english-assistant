@@ -1,3 +1,3 @@
 from fastapi import APIRouter
 router = APIRouter()
-# TODO: /register, /login, /me (JWT)
+# TODO: settings docente, connect Google Calendar
