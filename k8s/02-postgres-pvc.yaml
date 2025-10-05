@@ -5,7 +5,7 @@ metadata:
   namespace: english-assistant
 spec:
   # uncomment next line if you use Longhorn:
-  # storageClassName: longhorn
+    storageClassName: longhorn
   accessModes: ["ReadWriteOnce"]
   resources:
     requests:
