@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+backend/.venv/
+node_modules/
+frontend/dist/
+.vscode/
+.DS_Store
+*.log
+k8s/01-secrets.yaml
+!k8s/01-secrets.yaml.example
